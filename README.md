@@ -8,4 +8,4 @@
 - 👋 Hi, I’m @markusbit
 - 👀 I’m interested in IT
 - 🔭 I’m currently working on my website
-- 📫 How to reach me: <a href="markusb.ddns.net">markusb.ddns.net</a>
+- 📫 How to reach me: <a href="http://markusb.ddns.net/">markusb.ddns.net</a>
