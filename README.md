@@ -8,4 +8,5 @@
 - 👋 Hi, I’m @markusbit
 - 👀 I’m interested in IT
 - 🔭 I’m currently working on my website
-- 📫 How to reach me: <a href="http://markusbit.github.io/">markusb</a>
+- ✨ Check out my Diploma Thesis:  <a href="https://github.com/markusbit/TrafficSignDetection/">TrafficSignDetection</a>
+- 📫 How to reach me: <a href="https://markusbit.github.io/">markusb</a>
