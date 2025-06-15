@@ -5,7 +5,7 @@
 -->
 
 
-- 👋 Hi, I’m @markusbit
+- 👋 Hi, I’m @markusxb
 - 👀 I’m interested in IT
 - 🔭 I’m currently working on my website
 - ✨ Check out my Diploma Thesis:  <a href="https://github.com/markusbit/TrafficSignDetection/">TrafficSignDetection</a>
